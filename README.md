@@ -1,6 +1,6 @@
 # Data_Analysis_Seoul_Hospital
 
-이 저장소는 부스트코스에서 파이썬으로 시작하는 데이터 사이언스 강의(https://github.com/corazzon)를 실습한 내용입니다.
+이 저장소는 부스트코스에서 파이썬으로 시작하는 데이터 사이언스 강의[박조은](https://github.com/corazzon)를 실습한 내용입니다.
 
 아나콘다 환경에서 파이썬3과 주피터노트북을 이용합니다.
 
